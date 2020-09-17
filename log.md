@@ -1,11 +1,13 @@
 # 100 Days Of Learning - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 01: September 16, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Focused on C173. Working through the fundamentals. 
+Watched almost 2 hours of pluralsight Security+ course prep.
+Set up Kali VM to start getting used to the environment.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Fundamentals course is very boring and it doesn't feel very hands on. I do need to power through without and get out of the dopamine highs and power through dull subjects.
+
+**Link to work:** N/A
 
